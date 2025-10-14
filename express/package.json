@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Er  "dependencies": {
+    "express": "^5.1.0"
+  }ror: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "God",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
